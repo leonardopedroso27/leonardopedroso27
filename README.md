@@ -2,9 +2,9 @@
 
 meu nome é leonardo pedroso
 
--estou estudando na [alura](https://www.alura.com.br)
--estou me desevolvendo na linguagem javaScript
--ultilizo esse espaço para minha organiaçao e compartilhamentos dos meus projetos desenvolvidos
+- estou estudando na [alura](https://www.alura.com.br)
+- estou me desevolvendo na linguagem javaScript
+- ultilizo esse espaço para minha organiaçao e compartilhamentos dos meus projetos desenvolvidos
 
 ### você entrar em contato comigo
 
